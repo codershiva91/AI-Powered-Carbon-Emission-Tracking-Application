@@ -61,6 +61,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## 📬 Contact
 
 **Shivam Sahu**  
-Shivamsahu91rbl@gmail.com@gmail.com
+Shivamsahu91rbl@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/shivam-sahu91/)
