@@ -44,12 +44,10 @@ The global annual carbon footprint has now surpassed an alarming 40 billion tons
 
 ## 👨‍👩‍👧‍👦Team Members 
 
-- ### 🙋‍♂️Shivam Sahu
-  <a target="_blank" href="https://www.linkedin.com/in/shivam-sahu91/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
+- ### 🙋‍♂️Prince Chauhan 
+  
 - ### 🙋‍♀️Sanskrati Mishra
-  <a target="_blank" href="https://www.linkedin.com/in/sanskrati-mishra-13b94b21b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
+ 
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
@@ -62,7 +60,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## 📬 Contact
 
-**Prince Chauhan**  
-princechauhan220103@gmail.com
+**Shivam Sahu**  
+Shivamsahu91rbl@gmail.com@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/princechauhan22/)
+[LinkedIn](https://www.linkedin.com/in/shivam-sahu91/)
